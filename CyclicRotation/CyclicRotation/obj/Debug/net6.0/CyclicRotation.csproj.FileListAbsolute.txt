@@ -1,0 +1,15 @@
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.exe
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.deps.json
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.runtimeconfig.json
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.dll
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.pdb
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.csproj.AssemblyReference.cache
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.AssemblyInfoInputs.cache
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.AssemblyInfo.cs
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.dll
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\refint\CyclicRotation.dll
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.pdb
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.genruntimeconfig.cache
+C:\Github\CodilityLessons\CyclicRotation\CyclicRotation\obj\Debug\net6.0\ref\CyclicRotation.dll

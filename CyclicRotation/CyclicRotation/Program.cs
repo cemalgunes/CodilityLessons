@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using CyclicRotation;
+
+var result = new Solution().solution(new int[] {3, 8, 9, 7, 6 }, 3);
