@@ -1,0 +1,15 @@
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\bin\Debug\net6.0\CodilityLessons.exe
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\bin\Debug\net6.0\CodilityLessons.deps.json
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\bin\Debug\net6.0\CodilityLessons.runtimeconfig.json
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\bin\Debug\net6.0\CodilityLessons.dll
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\bin\Debug\net6.0\CodilityLessons.pdb
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.csproj.AssemblyReference.cache
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.AssemblyInfoInputs.cache
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.AssemblyInfo.cs
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.csproj.CoreCompileInputs.cache
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.dll
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\refint\CodilityLessons.dll
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.pdb
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\CodilityLessons.genruntimeconfig.cache
+C:\Github\CodilityLessons\CodilityLessons\CodilityLessons\obj\Debug\net6.0\ref\CodilityLessons.dll
