@@ -58,5 +58,13 @@ namespace CodilityLessons.Test
         {
             return new FrogRiverOne().Solution(X, A);
         }
+
+        [Test]
+        [TestCase(new int[] { 4,1,3,2 }, ExpectedResult = 1)]
+        [TestCase(new int[] { 4, 1, 3 }, ExpectedResult = 0)]
+        public int PermCheckTest(int[] A)
+        {
+            return new PermCheck().Solution(A); 
+        }
     }
 }
