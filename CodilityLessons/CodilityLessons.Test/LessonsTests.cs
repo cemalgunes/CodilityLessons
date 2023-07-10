@@ -66,5 +66,12 @@ namespace CodilityLessons.Test
         {
             return new PermCheck().Solution(A); 
         }
+
+        [Test]
+        [TestCase(5, new int[] { 3,4,4,6,1,4,4 }, ExpectedResult = new int[] { 3,2,2,4,2 })]
+        public int[] MaxCountersTest(int N, int[] A)  
+        {
+            return new MaxCounters().Solution(N, A);
+        }
     }
 }
